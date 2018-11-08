@@ -4,11 +4,7 @@
 git shipped :boat:
 
 ## Some fun emojis
-> :thumbsup: `:thumbsup:`
-<br>
-> :truck: `:truck:`
-<br>
-> :koala: `:koala:` 
+> :thumbsup: `:thumbsup:` <br> :truck: `:truck:` <br> > :koala: `:koala:` 
 
 ### Python Highlighting
 
